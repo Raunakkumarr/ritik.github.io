@@ -1,0 +1,404 @@
+{
+    "Mocktest": [
+        {
+            "Question": "Where will 2022 olympics be held?",
+            "option1": "South Korea",
+            "option2": "China",
+            "option3": "Nepal",
+            "option4": "Sweden",
+            "opc": "option2"
+        },
+        {
+            "Question": "Who initiated Nobel Prize?",
+            "option1": "Alfred Nobel",
+            "option2": "Ahmed Nobel",
+            "option3": "Sherlock Holmes",
+            "option4": "Nobel Ashok",
+            "opc": "option1"
+        },
+        {
+            "Question": "How many kings ruled over Kirat dynasty?",
+            "option1": "29",
+            "option2": "3",
+            "option3": "8",
+            "option4": "19",
+            "opc": "option1"
+        },
+        {
+            "Question": "When did Prithvi Naryan Shah win Kathmandu Valley?",
+            "option1": "1819 B.S.",
+            "option2": "1816 B.S.",
+            "option3": "1825 B.S.",
+            "option4": "1815 B.S.",
+            "opc": "option3"
+        },
+        {
+            "Question": "Who is the father of Prithvi Naryan Shah?",
+            "option1": "Bahadur Shah",
+            "option2": "Narbhupal Shah",
+            "option3": "Tribhuvan Sah",
+            "option4": "Birendra Sah",
+            "opc": "option2"
+        },
+        {
+            "Question": "Who is known as the Living Martyr of Nepal?",
+            "option1": "Padma Samsher",
+            "option2": "Mohan Samsher",
+            "option3": "Juddha Samsher",
+            "option4": "Chandra Shamser",
+            "opc": "option1"
+        },
+        {
+            "Question": "Which is the first hydroelectricity plant of Nepal?",
+            "option1": "Chilime Hydropower",
+            "option2": "Upper Tamakoshi Hydropower",
+            "option3": "Pharping Hydropower",
+            "option4": "Arun Valley Hydropower",
+            "opc": "option3"
+        },
+        {
+            "Question": "Who is the first women minister of Nepal?",
+            "option1": "Pampa Bhusal",
+            "option2": "Urmila Aryal",
+            "option3": "Dwarika Devi Thakurani",
+            "option4": "Shailaja Acharya",
+            "opc": "option3"
+        },
+        {
+            "Question": "When was Nepal Rastriya Bank established?",
+            "option1": "2007 B.S.",
+            "option2": "1913 B.S.",
+            "option3": "2025 B.S.",
+            "option4": "2013 B.S.",
+            "opc": "option4"
+        },
+        {
+            "Question": "When was Radio Nepal established?",
+            "option1": "2007 B.S.",
+            "option2": "1913 B.S.",
+            "option3": "2025 B.S.",
+            "option4": "2013 B.S.",
+            "opc": "option1"
+        },
+        {
+            "Question": "Who is the Iron man of Nepal?",
+            "option1": "Chandra Samsher",
+            "option2": "Birendra Bir Bikram Sah",
+            "option3": "Ganesh Man Singh",
+            "option4": "Prem Ale",
+            "opc": "option3"
+        },
+        {
+            "Question": "When was refrendum held in Nepal?",
+            "option1": "2046 B.S.",
+            "option2": "2036 B.S.",
+            "option3": "2025 B.S.",
+            "option4": "2035 B.S.",
+            "opc": "option2"
+        },
+        {
+            "Question": "When was first constitution of Nepal formulated?",
+            "option1": "2026 B.S.",
+            "option2": "2007 B.S.",
+            "option3": "2003 B.S.",
+            "option4": "2004 B.S.",
+            "opc": "option4"
+        },
+        {
+            "Question": "When did Mass Movement I take place?",
+            "option1": "2046 B.S.",
+            "option2": "2053 B.S.",
+            "option3": "2007 B.S.",
+            "option4": "2058 B.S.",
+            "opc": "option1"
+        },
+        {
+            "Question": "How many constitution has been promulated in Nepal till date?",
+            "option1": "8",
+            "option2": "19",
+            "option3": "7",
+            "option4": "12",
+            "opc": "option3"
+        },
+        {
+            "Question": "When is world population day celebrated?",
+            "option1": "July 11",
+            "option2": "May 1",
+            "option3": "June 15",
+            "option4": "August 27",
+            "opc": "option1"
+        },
+        {
+            "Question": "When is National Children day celebrated?",
+            "option1": "Shrawan 24",
+            "option2": "Aswin 15",
+            "option3": "Bhadra 29",
+            "option4": "Magh 1",
+            "opc": "option3"
+        },
+        {
+            "Question": "Which country is the largest producer of Coffee?",
+            "option1": "Nepal",
+            "option2": "Italy",
+            "option3": "Sweden",
+            "option4": "Brazil",
+            "opc": "option4"
+        },
+        {
+            "Question": "When is constitution day celebrated in Nepal?",
+            "option1": "Ashoj 3",
+            "option2": "Asar 3",
+            "option3": "Bhadra 3",
+            "option4": "Shrawan 13",
+            "opc": "option1"
+        },
+        {
+            "Question": "Fear of blood is called",
+            "option1": "Achluophobia",
+            "option2": "Haemophobia",
+            "option3": "Androphobia",
+            "option4": "Entomophobia",
+            "opc": "option2"
+        },
+        {
+            "Question": "In which country is Jiya International Airport located?",
+            "option1": "Bangladesh",
+            "option2": "India",
+            "option3": "Pakistan",
+            "option4": "Saudi Arabia",
+            "opc": "option1"
+        },
+        {
+            "Question": "When was the first railway started in Nepal?",
+            "option1": "1816 A.D.",
+            "option2": "1925 A.D.",
+            "option3": "2020 A.D.",
+            "option4": "1927 A.D.",
+            "opc": "option4"
+        },
+        {
+            "Question": "Who is the current Finance minister of Nepal?",
+            "option1": "Prem Ale",
+            "option2": "Balendra Sah",
+            "option3": "Janardhan Sharma",
+            "option4": "Pampha Bhusal",
+            "opc": "option3"
+        },
+        {
+            "Question": "Who is the current governer of Nepal?",
+            "option1": "Yuba Raj Khatiwada",
+            "option2": "Maha Prasad Adhikari",
+            "option3": "Deependra Bahadur Kshetry",
+            "option4": "Dr. Chiranjibi Nepal",
+            "opc": "option2"
+        },
+        {
+            "Question": "Who is the youngest CEO in Nepalese Commercial Banks?",
+            "option1": "Yuba Raj Khatiwada",
+            "option2": "Anil Keshary Shah",
+            "option3": "Roshan Kumar Neupane",
+            "option4": "Ashok Sherchan",
+            "opc": "option3"
+        },
+        {
+            "Question": "A number gives a reminder 5 when divided by 6. What will be the reminder if the same number is divided by 12?",
+            "option1": "11",
+            "option2": "7",
+            "option3": "10",
+            "option4": "5",
+            "opc": "option4"
+        },
+        {
+            "Question": "If 10x + 10y = 70, what is the average of x and y?",
+            "option1": "5",
+            "option2": "10",
+            "option3": "35",
+            "option4": "70",
+            "opc": "option1"
+        },
+        {
+            "Question": "The number of integers for which n²-30 is negative, where n is any positive integers is",
+            "option1": "7",
+            "option2": "5",
+            "option3": "36",
+            "option4": "30",
+            "opc": "option2"
+        },
+        {
+            "Question": "Which of the following cannot be the sum of a two-digit number and the reverse of the same number?",
+            "option1": "121",
+            "option2": "165",
+            "option3": "209",
+            "option4": "235",
+            "opc": "option4"
+        },
+        {
+            "Question": "Which of the following set of consecutive odd numbers gives the product of 483?",
+            "option1": "17 x 21",
+            "option2": "26 x 15",
+            "option3": "21 x 23",
+            "option4": "9 x 11",
+            "opc": "option3"
+        },
+        {
+            "Question": "b years ago, Raunak was a years old. How old will he be in next c years?",
+            "option1": "a+b-c",
+            "option2": "a-b+c",
+            "option3": "a+b+c",
+            "option4": "b-c+a",
+            "opc": "option3"
+        },
+        {
+            "Question": "If my age was 20 years when my brother was 40 years old. What will be my age when my brother is 62?",
+            "option1": "50",
+            "option2": "23",
+            "option3": "31",
+            "option4": "42",
+            "opc": "option4"
+        },
+        {
+            "Question": "The present age of elder and younger brother is 13 and 7 years respectively. After how many years, the product of their age will be 187?",
+            "option1": "2 years",
+            "option2": "4 years",
+            "option3": "12 years",
+            "option4": "14 years",
+            "opc": "option2"
+        },
+        {
+            "Question": "The sum of the digits of a two digit number is 11. When the number is reduced by 27, the digits are reversed, find the number?",
+            "option1": "53",
+            "option2": "47",
+            "option3": "74",
+            "option4": "29",
+            "opc": "option3"
+        },
+        {
+            "Question": "The average age of 7 men is 89. When a men is added to the group, the average reduces by 2, find the age of the new men.",
+            "option1": "73 years",
+            "option2": "89 years",
+            "option3": "45 years",
+            "option4": "2 years",
+            "opc": "option1"
+        },
+        {
+            "Question": "The product of the digits of a two digit number is 18. If the number in the tens place is 6, what is the number?",
+            "option1": "36",
+            "option2": "63",
+            "option3": "72",
+            "option4": "92",
+            "opc": "option2"
+        },
+        {
+            "Question": "If 9 is added to the square of a number, the result is 45. What is the number?",
+            "option1": "±6",
+            "option2": "±36",
+            "option3": "±9",
+            "option4": "±45",
+            "opc": "option1"
+        },
+        {
+            "Question": "Raunak is 4 year younger than Ritik. In 4 years, the sum of their age will be 44, what is Raunak's present age?",
+            "option1": "20 years",
+            "option2": "4 years",
+            "option3": "16 years",
+            "option4": "24 years",
+            "opc": "option3"
+        },
+        {
+            "Question": "The product of two consecutive even number is 168, find the numbers",
+            "option1": "12, 11",
+            "option2": "14, 16",
+            "option3": "11, 13",
+            "option4": "12, 14",
+            "opc": "option4"
+        },
+        {
+            "Question": "The sum of a number and one-seventh of the sum of the digits of the same number is 16, find the number.",
+            "option1": "23",
+            "option2": "59",
+            "option3": "25",
+            "option4": "43",
+            "opc": "option3"
+        },
+        {
+            "Question": "The product of Ritik's age 5 years ago with his age 9 years later is 680, what is his present age?",
+            "option1": "25 years",
+            "option2": "9 years",
+            "option3": "5 years",
+            "option4": "54 years",
+            "opc": "option1"
+        },
+        {
+            "Question": "Vijay's present age is a two-digit number. After 9 years, the digits of his age will be the reverse of his present age. If the sum of his present age and his age 9 years later is 33. What is his current age?",
+            "option1": "45 years",
+            "option2": "18 years",
+            "option3": "12 years",
+            "option4": "14 years",
+            "opc": "option3"
+        },
+        {
+            "Question": "The product of the digits of a two digit number is 20. The digits of the number are reversed on adding 9, what is the number?",
+            "option1": "12",
+            "option2": "45",
+            "option3": "54",
+            "option4": "17",
+            "opc": "option2"
+        },
+        {
+            "Question": "In 2003, Ritik was 3 times the age of Anish. In 2009, Ritik will be two times the age of Anish. What was the age of Ritik in 2003?",
+            "option1": "18 years",
+            "option2": "28 years",
+            "option3": "15 years",
+            "option4": "12 years",
+            "opc": "option1"
+        },
+        {
+            "Question": "The product of two digits of a two digit number is 18. The digit in the unit place is half of the digit in the tens place, find the number.",
+            "option1": "92",
+            "option2": "84",
+            "option3": "63",
+            "option4": "36",
+            "opc": "option3"
+        },
+        {
+            "Question": "The sum of the digits of a two digit number is 8 and their product is 12. Find the number.",
+            "option1": "43",
+            "option2": "62",
+            "option3": "71",
+            "option4": "53",
+            "opc": "option2"
+        },
+        {
+            "Question": "After 2 years, the sum of the age of father and son is 60. 3 years ago, father was 4 times the age of son. Find their present age.",
+            "option1": "15,45",
+            "option2": "13,43",
+            "option3": "20,40",
+            "option4": "60,15",
+            "opc": "option2"
+        },
+        {
+            "Question": "z years ago, you were x years old. How old were you 'y' years ago?",
+            "option1": "x+z-y",
+            "option2": "x-z-y",
+            "option3": "x+z+y",
+            "option4": "x+y-z",
+            "opc": "option1"
+        },
+        {
+            "Question": "The total number of pages of a book made of 157 papers is",
+            "option1": "628",
+            "option2": "157",
+            "option3": "314",
+            "option4": "432",
+            "opc": "option3"
+        },
+        {
+            "Question": "The sum of digits of a two digit number is 12. The digit on unit place is three times of the digit on the tens place. What is the number?   [CMAT 2006]",
+            "option1": "48",
+            "option2": "39",
+            "option3": "26",
+            "option4": "57",
+            "opc": "option2"
+        }
+    ]
+}
